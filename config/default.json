@@ -1,0 +1,12 @@
+{
+    "dev": {
+      "db": "mongodb://127.0.0.1:27017/KaspiOrdersNTF",
+      "port": "8081",
+      "url": "localhost"
+    },
+    "prod": {
+      "db": "",
+      "port": "8081",
+      "url": ""
+    }
+  }
